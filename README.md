@@ -34,5 +34,3 @@ Using:
 - Starlight
 - ModernFix
 - VeryManyPlayers
-- Methane
-- Faster Random
