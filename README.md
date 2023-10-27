@@ -18,17 +18,15 @@ Using:
 - Better FPS Render Distance
 - Canary
 - Client Crafting
-- Debugify Reforged
 - DEUF
 - Embeddium
 - Embeddium Options
 - Rubidium/Magnesium Extras
 - Fast Paintings
 - Fix GPU Mem Leak
-- Goal Optimizer
 - ImmediatelyFast
 - Leaves Be Gone
-- Lightspeed
+- Fastload
 - Redirector
 - Spark
 - Starlight
