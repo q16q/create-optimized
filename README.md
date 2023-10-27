@@ -1,5 +1,10 @@
 # Create Optimizated
-A forge modlist for **Minecraft 1.20.1**. Includes mods:
+A forge modlist for **Minecraft 1.20.1**. 
+Using:
+* [`Forge 47.2.0`](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar)
+* [`Minecraft 1.20.1`](https://www.minecraft.net/ru-ru)
+* [`LWJGL 3.3.1`](https://www.lwjgl.org/browse/release/3.3.1/bin/lwjgl) `(may be installed with your launcher)`
+## Mods
 - Create
 - Origins
 - Dynamic Trim
